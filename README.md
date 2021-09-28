@@ -1,2 +1,2 @@
-![software-developer](C:\Users\suri\Desktop\profile\software-developer.jpg)
+![software-developer](software-developer.jpg)
 
